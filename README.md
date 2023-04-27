@@ -62,7 +62,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+*Install this project with:
 - any code editor
 - Node.js
 
